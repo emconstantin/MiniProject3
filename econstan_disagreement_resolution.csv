@@ -1,0 +1,28 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;AdjudicatedValue;ResolutionType(AuthorKept/ValidatorKept/Compromise);PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
+corybrunson_ggalluvial;econstan;ddemarco;HasRecovered;No;Yes;;;;"10-month gap; 24 later commits.";
+ohdsi_patientlevelprediction;econstan;ddemarco;HasRecovered;Yes;No;;;;"1-month gap; 1856 later commits.";
+seung-lab_cloud-volume;econstan;ddemarco;HasRecovered;Yes;No;;;;"1-month gap; 1009 later commits.";
+snowleopard_alga;econstan;ddemarco;HasRecovered;No;Yes;;;;"6-month gap; 53 later commits.";
+aidenlab_straw;econstan;ddemarco;WhyRecovered;Muhammad Saad Shamim returned to improve performance by parallelizing block retrieval, adding a thread pool, and fixing bugs.;Bug fixes;;;;"Gap 2024-04–2025-03; return: parallelize getting blocks.";
+coin-or_ipopt;econstan;ddemarco;WhyRecovered;Paul Scott contributed a fix for CPU timing and then added fixes from Stefan Vigerske.;Feature development;;;;"Gap 2017-07–2017-10; return: Resetting CPU start time on reoptimize of IpoptApplication.";
+corybrunson_ggalluvial;econstan;ddemarco;WhyRecovered;Michael Chirico contributed a typo correction and changes to testing which brought new activity before the they continued making updates.;Feature development;;;;"Gap 2023-08–2024-05; return: typo.";
+google-research_torchsde;econstan;ddemarco;WhyRecovered;A contributor added fixes to version formatting and other compatibility changes.;Bug fixes;;;;"Gap 2021-08–2023-06; return: Add GPU Acceleration Apple Silicon Macs (mps).";
+maximecb_gym-minigrid;econstan;ddemarco;WhyRecovered;Karan Muvvala added a publication to the documentation and automated deployments and dependency updates.;Release;;;;"Gap 2025-03–2025-05; return: Update publications.md Added my IJCAI 2025 main track paper.";
+ohdsi_patientlevelprediction;econstan;ddemarco;WhyRecovered;Peter Rijnbeek resumed work by resolving merge conflicts and cleaning up code;No gap;;;;"Gap 2019-09–2019-09; return: removed merge conflicts and added Merge branch master into ensembleTrain.";
+seung-lab_cloud-volume;econstan;ddemarco;WhyRecovered;Forrest Collman updated the json schema dependency requirement;No gap;;;;"Gap 2021-09–2021-09; return: pinning jsonschema<4.0.";
+snowleopard_alga;econstan;ddemarco;WhyRecovered;Erik de Castro Lopo updated the dependency;Bug fixes;;;;"Gap 2023-05–2023-10; return: Update deepseq dependency.";
+stvir_pysot;econstan;ddemarco;WhyRecovered;Aryan Pandey updated the documentation to address an older NumPy version and other fixes and contributions.;Bug fixes;;;;"Gap 2021-04–2023-03; return: Mentioned older version of numpy in INSTALL.md.";
+tidymodels_rsample;econstan;ddemarco;WhyRecovered;Hannah Frick restarted development with documentation edits, improvements in testing.;Release;;;;"Gap 2024-10–2025-02; return: reduce emphasis on data frame.";
+maximecb_gym-minigrid;econstan;ddemarco;ActivityPattern;U-shaped;steady;;;;"Avg commits/month (early–late): 19.0, 27.0, 21.4; max gap 3 months.";
+seung-lab_cloud-volume;econstan;ddemarco;ActivityPattern;U-shaped;declining;;;;"Avg commits/month (early–late): 54.8, 30.2, 19.8; max gap 1 months.";
+tidymodels_rsample;econstan;ddemarco;ActivityPattern;inclining;steady;;;;"Avg commits/month (early–late): 10.0, 23.6, 19.7; max gap 5 months.";
+aidenlab_straw;econstan;ddemarco;Currentstatus;Inactive;Active;;;;Last commit: 2025-06-29 (92 days before cutoff).;
+corybrunson_ggalluvial;econstan;ddemarco;Currentstatus;Inactive;Active;;;;Last commit: 2025-09-12 (17 days before cutoff).;
+snowleopard_alga;econstan;ddemarco;Currentstatus;Inactive;Active;;;;Last commit: 2025-08-19 (41 days before cutoff).;
+stvir_pysot;econstan;ddemarco;Currentstatus;Inactive;Active;;;;Last commit: 2025-06-22 (99 days before cutoff).;
+aidenlab_straw;econstan;ddemarco;RecentThemes;Bug fixes;Feature development;;;;Recent commits: feature development (1), documentation updates (1), bug fixes (1).;
+coin-or_ipopt;econstan;ddemarco;RecentThemes;Release;Bug fixes;;;;Recent commits: documentation updates (1), dependency updates (1), bug fixes (7).;
+google-research_torchsde;econstan;ddemarco;RecentThemes;Dependency updates;Bug fixes;;;;Recent commits: bug fixes (3).;
+maximecb_gym-minigrid;econstan;ddemarco;RecentThemes;Bug fixes;Dependency updates;;;;Recent commits: release (1), dependency updates (2).;
+snowleopard_alga;econstan;ddemarco;RecentThemes;Dependency updates;Bug fixes;;;;Recent commits: bug fixes (2), dependency updates (1).;
+tidymodels_rsample;econstan;ddemarco;RecentThemes;Bug fixes;Release;;;;Recent commits: release (3), dependency updates (2).;
