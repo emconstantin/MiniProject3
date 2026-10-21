@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;60.0;NA;-0.250;NA;4;0;Pre-discussion based on 10 author-validator pairs. No adjudicated discussion outcomes recorded.
+WhyRecovered;0.0;NA;NA;NA;10;0;"Free-text reasons; exact-label kappa not meaningful. No adjudicated discussion outcomes recorded."
+ActivityPattern;70.0;NA;0.595;NA;3;0;Pre-discussion based on 10 author-validator pairs. No adjudicated discussion outcomes recorded.
+Currentstatus;60.0;NA;0.200;NA;4;0;Pre-discussion based on 10 author-validator pairs. No adjudicated discussion outcomes recorded.
+RecentThemes;40.0;NA;-0.034;NA;6;0;Pre-discussion based on 10 author-validator pairs. No adjudicated discussion outcomes recorded.
